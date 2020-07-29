@@ -1,6 +1,7 @@
 # Distributed Chaos
 
 [Postavka problema](https://docs.google.com/document/d/1gr8mdPVnaBaGB4LXXAuNHPFFgjhuWJ4sCGLSv00pLSw)
+
 [Cela dokumentacija](https://docs.google.com/document/d/1R8uygEGYILpqh34eT_hjNgH-zQHGPYHe51d061e3e0I)
 
 
